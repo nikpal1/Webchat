@@ -1,0 +1,51 @@
+.all {
+    margin: 80px;
+    display: flex;
+}
+
+.child1 {
+    height: 600px;
+    width: 730px;
+}
+
+.logo {
+    background-color: black;
+    height: 40px;
+    width: 310px;
+}
+
+.othervideo {
+    background-color: red;
+    height: 400px;
+    width: 700px;
+}
+
+.yourvideo {
+    margin-left: 10px;
+    background-color: white;
+    height: 80px;
+    width: 140px;
+}
+
+.yourinfo {
+    background-color: blue;
+    height: 80px;
+    width: 400px;
+}
+
+.child2 {
+    height: 600px;
+    width: 40px;
+}
+
+.oldtexts {
+    background-color: purple;
+    height: 430px;
+    width: 200px;
+}
+
+.currenttext {
+    background-color: pink;
+    height: 80px;
+    width: 200px;
+}
